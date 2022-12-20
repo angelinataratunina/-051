@@ -12,3 +12,6 @@ $$ \cancelto{H_2}{H_2O} $$
 $$ m_{\small{H_2O}}=V\rho_{\small{H_2O}} $$
 
 m_{\small{H_2O}}=V\rho_{\small{H_2O}}
+
+
+![mermaid-diagram-2022-12-20-132707](https://user-images.githubusercontent.com/114469407/208598644-1a96591a-5e8c-44c7-bbb1-512dd8fdba54.png)
