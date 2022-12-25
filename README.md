@@ -15,5 +15,5 @@ m_{\small{H_2O}}=V\rho_{\small{H_2O}}
 
 ![mermaid-diagram-2022-12-20-133000](https://user-images.githubusercontent.com/114469407/208598999-49341829-46d9-4f0e-b463-0fa41b1c6884.png)
 
-project6570742.tilda.ws/
+http://project6570742.tilda.ws/chemege
 
